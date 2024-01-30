@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "title": "Push Code to Github",
+      "date": "30 January",
+      "status": "Pending",
+      "id": 3
+    },
+    {
+      "title": "Assignment Completed",
+      "date": "30/1/2024",
+      "status": "Completed",
+      "id": 4
+    },
+    {
+      "title": "Host on Vercel",
+      "date": "30/1/2024",
+      "status": "Pending",
+      "id": 5
+    }
+  ]
+}
